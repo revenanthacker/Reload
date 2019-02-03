@@ -15,7 +15,6 @@ choco install openssh -y
 choco install atom -y
 choco install php -y
 choco install python -y
-choco install docker -y
 choco install lastpass -y
 choco install rufus -y
 choco install avastfreeantivirus -y
